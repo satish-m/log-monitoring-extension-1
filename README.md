@@ -1,5 +1,7 @@
 # AppDynamics Log Monitoring Extension
 
+Note: We have created a new repository for Log Monitoring extension at https://github.com/Appdynamics/log-monitoring-extension-2 as we don't have permissions to edit this repo. Going forward please use https://github.com/Appdynamics/log-monitoring-extension-2
+
 ## Use Case
 The AppDynamics Log Monitoring Extension monitors the occurrences of configured text or regular expressions in a set of log files, and the sizes of these files. The extension works seamlessly with logs that are constantly generated and rotating from time to time. 
 
